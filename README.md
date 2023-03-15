@@ -17,7 +17,7 @@ For both cases, we'll review teh target classes, train a logistic regression cla
 
 
 * Machine Learning Model 2:
-  *   * Balanced Accuracy: Balanced accuracy is the equally weighted percision score of the positive and negative results. This model produced a 99.4% balanced accuracy score.
+  * Balanced Accuracy: Balanced accuracy is the equally weighted percision score of the positive and negative results. This model produced a 99.4% balanced accuracy score.
   * Precision: This measures the total number of correct identifications divided by the total number of events. This model had a 99.4% percision rate.
   * Recall scores:  This is the number of correct identifications for a class divided by the total number for that class. For this model both the postive and negative results were identified 99.4% of the time.
 
